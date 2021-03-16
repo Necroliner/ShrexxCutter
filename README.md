@@ -10,7 +10,8 @@ To setup the bot it's super simple !
 
 2. Go to the web app that allows you to get the oauth token of your account : https://twitchapps.com/tmi/
 
-3. Edit the ShrexxCutter/src/Main.js file by replacing 
+3. Edit the ShrexxCutter/src/Main.js file with any text editor by replacing
+
         username: "USERNAME_OF_YOUR_ACCOUNT"
         password: "THE_OAUTH_TOKEN_YOU_GENERATED"
 

@@ -12,7 +12,7 @@ To setup the bot it's super simple !
 
 3. Edit the ShrexxCutter/src/Main.js file by replacing 
         username: "USERNAME_OF_YOUR_ACCOUNT"
-        password: "THE_OAUTH_TOKEN_YOU_GENEERATED"
+        password: "THE_OAUTH_TOKEN_YOU_GENERATED"
 
 4. Save and launch ShrexxCutter/start.bat
 

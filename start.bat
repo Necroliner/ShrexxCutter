@@ -1,0 +1,1 @@
+node ./src/Main.js

@@ -18,5 +18,3 @@ To setup the bot it's super simple !
 4. Save and launch ShrexxCutter/start.bat
 
 You are good to go !
-
-I know this is garbage and ugly but yo it's working right 😎
